@@ -1,1 +1,3 @@
 # spiking-actor-critic
+
+This repository contains an unofficial implementation of [Fremaux N, Sprekeler H, Gerstner W (2013) Reinforcement Learning Using a Continuous Time Actor-Critic Framework with Spiking Neurons. PLoS Comput Biol 9(4): e1003024. doi:10.1371/journal.pcbi.1003024](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003024) using [Nengo](https://www.nengo.ai) and [OpenAI Gym](https://gym.openai.com). The implementation is contained within `pvc-actor-critic.ipynb`.
